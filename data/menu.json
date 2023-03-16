@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "menuname": "home",
+        "link": "/home"
+    },
+    {
+        "id": 2,
+        "menuname": "about",
+        "link": "/about"
+    },
+    {
+        "id": 3,
+        "menuname": "contact",
+        "link": "/contact"
+    },
+    {
+        "id": 4,
+        "menuname": "service",
+        "link": "/service"
+    },
+    {
+        "id": "3161eb7a-80bf-46ac-8266-8ca4272252bc"
+    },
+    {
+        "id": "311f2fd9-4b16-4e0f-84b3-3bdff9945615",
+        "menuname": "bbbb"
+    },
+    {
+        "id": "e7c3ab15-16fc-499e-9fbb-e3ebbab9bbf6",
+        "menuname": "jjjj"
+    },
+    {
+        "id": "375fd305-a002-4728-8d91-0494916719b8",
+        "menuname": "jjjj"
+    }
+]

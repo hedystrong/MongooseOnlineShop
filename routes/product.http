@@ -1,0 +1,38 @@
+###
+
+POST http://localhost:8000/api/product
+Content-Type: application/json
+
+{
+     "productName": "Chair",
+     "price" : "$63.47",
+     "salePercent": "",
+     
+}
+
+###
+
+PUT http://localhost:8000/api/product/77fa0428-d748-437e-8650-510407fa13c9
+Content-Type: application/json
+
+{
+     "productName": "Gaduur kurtka",
+     "price": "77$",
+}
+
+
+###
+
+DELETE http://localhost:8000/api/product/b44e4272-2cd8-45e4-a2af-f6093dfdae85
+Content-Type: application/json
+
+
+
+###
+GET  http://localhost:8000/api/product
+Content-Type: application/json
+
+
+###
+GET  http://localhost:8000/api/product/0730b875-a298-4d1c-8d9d-e130e9e51ce7
+Content-Type: application/json

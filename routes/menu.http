@@ -1,0 +1,13 @@
+###
+
+POST http://localhost:8000/api/menu
+Content-Type: application/json
+
+{
+     "menuname": "jjjj"
+}
+
+###
+
+GET  http://localhost:8000/api/menu
+Content-Type: application/json

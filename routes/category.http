@@ -1,0 +1,34 @@
+###
+
+POST http://localhost:8000/api/category
+Content-Type: application/json
+
+{
+     "categoryName": "Dining table"
+}
+
+###
+
+PUT http://localhost:8000/api/category/5e224d43-374d-4683-a61a-f07f59aa28cf
+Content-Type: application/json
+
+{
+     "categoryName": "Clothes-Test"
+}
+
+
+###
+
+DELETE http://localhost:8000/api/category/da0110fe-74e0-45df-bf4d-20b45cd99b0e
+
+
+
+
+###
+GET  http://localhost:8000/api/category
+Content-Type: application/json
+
+
+###
+GET  http://localhost:8000/api/category/c437190d-6ad8-44ed-8b20-70ef7494c24f
+Content-Type: application/json
